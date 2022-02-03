@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://narkolog-domoy.ru/sitemap.xml
